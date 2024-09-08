@@ -1,0 +1,8 @@
+name: SimpleSmite
+version: '${project.version}'
+main: yt.roro.simplesmite.SimpleSmite
+api-version: '1.21'
+commands:
+  smite:
+    description: "Summon a lightning bolt on top of a player!"
+    usage: "/smite <players>"
